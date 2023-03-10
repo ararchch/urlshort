@@ -6,7 +6,7 @@ To Run:
 1. Clone repo to local storage
 2. In 'urlshort' directory run 'node .' (program will run on localhost:3000 port)
 3. Using Postman send a post request to 'http://localhost:3000/short'
-  3a. Body: { 
+      Body: { 
               "originalUrl": "https://www.sampleurl.com"
             }
 4. shortened url is returned with 200 response from server. 
