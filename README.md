@@ -13,4 +13,4 @@ To Run:
 5. access shortened url to be redirected to original one (Note: originalUrl - shortenedUrl data is maintained even if server is restarted)
 
 Note: although there is a minimal frontend, it is not functional at the moment and encounters issues when sending a post request.
-      I will attempt to debug it/improve the UI over the next few days.
+      I will attempt to debug it/improve the UI over the next few weeks.
